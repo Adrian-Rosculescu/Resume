@@ -1,5 +1,16 @@
-
+*{
+    box-sizing: border-box;
+}
 
 #profile__picture{
     width: 200px;
 }
+
+.about-text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title{
+    text-align: center;
+    color: rgb(238, 9, 9);
+}
+
